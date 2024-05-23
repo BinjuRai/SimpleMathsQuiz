@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="green">#1D6A62</color>
+    <color name="white">#FFFFFF</color>
+    <color name="lightgreen">#2C877F</color>
+    <color name="lightlightgreen">#649994</color>
+    <color name="darkpink">#CA527B</color>
+    <color name="babypink">#D785A1</color>
+    <color name="lightpink">#BA96A2</color>
+    <color name="lavender">#B578C0</color>
+    <color name="correctColor">#89D58C</color>
+    <color name="incorrectColor">#C12317</color>
+    <color name="defaultButtonColor">#D8ECD067</color>
+
+</resources>
